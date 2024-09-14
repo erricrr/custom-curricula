@@ -31,27 +31,3 @@ def get_llm_response(prompt, temperature=0.7, top_p=1.0, top_k=1):
     except Exception as e:
         return "Error! Try again."
 
-
-# # Initialize different models
-# text_model = genai.GenerativeModel('gemini-pro')
-# code_model = genai.GenerativeModel('code-davinci-002')
-# translation_model = genai.GenerativeModel('translation-en-es')
-# summarization_model = genai.GenerativeModel('summarization-model-v1')
-# qa_model = genai.GenerativeModel('qa-model-v1')
-# sentiment_model = genai.GenerativeModel('sentiment-analysis-model-v1')
-
-# model_type = [text_model, code_model, translation_model, summarization_model, qa_model, sentiment_model]
-
-# # Function to get a response from a model
-# def get_model_response(model, prompt, temperature=0.0):
-#     chat = model.start_chat(history=[])
-
-#     try:
-#         response = chat.send_message(prompt, temperature=temperature)
-#         respuesta = response.text.replace("*", "")
-#         return respuesta
-#     except genai.types.generation_types.BlockedPromptException:
-#         return "That's not nice! Be kind."
-#     except Exception as e:
-#         return "Error! Try again."
-
