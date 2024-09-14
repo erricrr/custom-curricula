@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 import google.generativeai as genai
-from IPython.display import Markdown
 
 # Get the gemini key from the .env file
 load_dotenv('.env', override=True)
@@ -18,9 +17,6 @@ def get_llm_response(prompt, temperature=0.7, top_p=1.0, top_k=1):
 
     try:
         generation_config = genai.GenerationConfig(temperature=temperature, top_p=top_p, top_k=top_k)
-
-        # model_response = chat.send_message(prompt)
-        # model_response = model.generate_content(prompt, generation_config=generation_config)
         
         model_response = chat.send_message(prompt,generation_config=generation_config)
 
