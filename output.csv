@@ -1,0 +1,91 @@
+First_Name,Hobby1,Hobby2,Weakness_Math,Grade_Level,Age,Problem,Solution
+Aisha,Drawing,Soccer,Fractions,5th,10,"Aisha is drawing a picture of her soccer team. She wants to divide the paper into 4 equal sections to draw each player. If the paper is 12 inches wide, what fraction of the paper will each player occupy?","1. Divide the paper into 4 equal sections: Each section will be 12 ÷ 4 = 3 inches.
+2. Convert the width of each section to a fraction of the total paper width: 3 inches / 12 inches = 1/4
+3. Therefore, each player will occupy 1/4 of the paper."
+Diego,Video games,Cycling,Multiplication,5th,10,Diego is an avid cyclist. He wants to ride his bike for 5 hours each day for the next 7 days. How many total hours will Diego spend cycling?,"1. Multiply the number of days by the number of hours per day:
+   - 7 days x 5 hours/day = 35 hours
+
+2. Therefore, Diego will spend a total of 35 hours cycling over the next 7 days."
+Mei,Baking,Ballet,Geometry,6th,11,"Mei loves ballet, and she wants to design a rectangular stage for her next performance. The stage will be 12 feet long and 8 feet wide. Mei wants to add a border around the stage that is 1 foot wide on all sides.
+
+How much border material will Mei need to purchase?","Step 1: Calculate the perimeter of the original stage.
+Perimeter = 2(Length + Width) = 2(12 ft + 8 ft) = 40 ft
+
+Step 2: Calculate the perimeter of the new stage (including the border).
+New Perimeter = 2(New Length + New Width)
+
+Step 3: Determine the width of the border.
+Border Width = New Width - Original Width = 8 ft + 2 ft - 8 ft = 2 ft
+
+Step 4: Calculate the length of the border material needed.
+Border Length = New Perimeter - Original Perimeter = 40 ft + 4 ft - 40 ft = 4 ft
+
+Step 5: Calculate the amount of border material needed.
+Border Material = Border Length  Border Width = 4 ft  2 ft = 8 sq ft"
+Kai,Basketball,Reading,Word Problems,6th,11,"Kai loves playing basketball. During his practice, he made 12 out of 18 free throw shots. If Kai continued practicing and made 4 more shots, what percentage of his total shots did he make?","Step 1: Find the total number of shots Kai made.
+12 shots (initial) + 4 shots (additional) = 16 shots
+
+Step 2: Find the total number of shots Kai attempted.
+18 shots (initial) + 4 shots (additional) = 22 shots
+
+Step 3: Calculate the percentage of shots made.
+(16 shots made / 22 shots attempted) x 100% = 72.73% (rounded to two decimal places)
+
+Therefore, Kai made 72.73% of his total shots."
+Lila,Wrestling,Roller skating,Division,5th,10,Lila loves wrestling. She has 24 wrestling toys. She wants to divide them equally among her 6 friends. How many toys will each friend get?,"1. Understand the problem: Lila has 24 toys and wants to divide them equally among 6 friends.
+2. Plan the solution: We need to divide 24 by 6 to find how many toys each friend will get.
+3. Solve the problem:
+
+```
+24 ÷ 6 = 4
+```
+
+4. Check the answer: We can check our answer by multiplying the number of toys each friend gets by the number of friends:
+
+```
+4 × 6 = 24
+```
+
+This equals the total number of toys, so our answer is correct.
+
+Answer: Each friend will get 4 wrestling toys."
+Amir,Running,Hiking,Decimals,5th,10,Amir is training for a 5-kilometer race. He runs 3.25 kilometers on Monday and 2.75 kilometers on Tuesday. How far has Amir run in total so far?,"1. Add the two distances: 3.25 kilometers + 2.75 kilometers = 6 kilometers
+2. Write the answer in decimal form: 6 kilometers = 6.00 kilometers
+
+Therefore, Amir has run 6.00 kilometers in total so far."
+Sofia,Writing poems,Gymnastics,Ratios,6th,11,"Sofia is a talented gymnast who loves to write poems. She practices gymnastics for 2 hours every day and writes poems for 1 hour every day. If Sofia spends a total of 21 hours on these hobbies in a week, what is the ratio of the time she spends on gymnastics to the time she spends on writing poems?","Step 1: Find the total number of hours Sofia spends on her hobbies in a week.
+2 hours/day × 7 days/week = 14 hours on gymnastics
+1 hour/day × 7 days/week = 7 hours on writing poems
+14 hours + 7 hours = 21 hours total
+
+Step 2: Write the ratio of gymnastics time to writing time.
+Ratio = Gymnastics time : Writing time
+Ratio = 14 hours : 7 hours
+
+Step 3: Simplify the ratio.
+Divide both sides by 7 to get:
+Ratio = 2 : 1
+
+Therefore, the ratio of the time Sofia spends on gymnastics to the time she spends on writing poems is 2 : 1."
+Leo,Soccer,Collecting rocks,Patterns,6th,11,"Leo loves collecting rocks. He has arranged his rocks in a pattern. The first row has 3 rocks, the second row has 5 rocks, the third row has 7 rocks, and so on. If Leo continues this pattern, how many rocks will he have in the 10th row?","Step 1: Identify the pattern. The pattern is that each row has 2 more rocks than the previous row.
+
+Step 2: Find the rule for the pattern. To find the number of rocks in a row, we can use the rule: number of rocks = 2  row number + 1.
+
+Step 3: Substitute the given row number into the rule. For the 10th row, we have:
+
+```
+number of rocks = 2  10 + 1
+number of rocks = 20 + 1
+number of rocks = 21
+```
+
+Therefore, Leo will have 21 rocks in the 10th row."
+Trang,Painting,Ice Skating,Subtraction,5th,10,"Trang loves to paint. She has 12 different colors of paint. If she uses 5 colors to paint a picture, how many colors does she have left?","1. Understand the problem: Trang has 12 colors of paint and uses 5 for a picture.
+2. Write a number sentence: Colors left = Total colors - Colors used
+3. Substitute the numbers: Colors left = 12 - 5
+4. Solve the subtraction: Colors left = 7
+5. Answer: Trang has 7 colors of paint left."
+Ravi,Building with Legos,Chess,Basic Arithmetic,5th,10,Ravi is building a tower with Legos. He wants to stack 5 layers of Legos. Each layer has 12 Legos. How many Legos does Ravi need in total?,"1. Understand the problem: Ravi wants to know the total number of Legos needed to build a tower with 5 layers, each containing 12 Legos.
+2. Identify the operation: We need to multiply the number of layers by the number of Legos in each layer.
+3. Perform the operation: 5 layers × 12 Legos/layer = 60 Legos.
+4. Answer: Ravi needs 60 Legos in total."

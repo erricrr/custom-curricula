@@ -1,0 +1,6 @@
+utils_gemini
+IPython
+csv
+os
+python-dotenv
+google-generativeai
