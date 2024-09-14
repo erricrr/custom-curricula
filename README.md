@@ -3,4 +3,4 @@ The "Custom Curricula" tool empowers teachers to craft personalized math word pr
 
 The data in `student_data.csv` uses fictitious LLM-generated student data.
 
-Currently, it runs **Gemini-pro** locally. This tool is not for production. It runs in a Jupyter Notebook (`gemini-pro-for-teachers.ipynb`), there's no user interface at the moment.
+Currently, it runs **Gemini-pro** locally in a Jupyter Notebook (`gemini-pro-for-teachers.ipynb`). This tool is not for production. There's no user interface at the moment. Also, the accuracy of the output has yet to be evaluated.
