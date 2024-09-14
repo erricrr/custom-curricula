@@ -6,4 +6,4 @@ The data in `student_data.csv` uses fictitious LLM-generated student data.
 Currently, it runs **Gemini-pro** locally in a Jupyter Notebook (`gemini-pro-for-teachers.ipynb`). This tool is not for production. There's no user interface at the moment. Also, the accuracy of the output has yet to be evaluated.
 
 ## Thanks DeepLearning.AI
-This project was built upon what I learned in the [AI Python for Beginners course offered by DeepLearning.AI](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction).
+This project was built upon what I learned in the [AI Python for Beginners courses offered by DeepLearning.AI](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction).
